@@ -1,0 +1,8 @@
+/sites/*
+!/sites/hello/
+
+/config/nginx/*
+!/config/nginx/hello.conf
+
+/data/*
+!/data/.gitignore
